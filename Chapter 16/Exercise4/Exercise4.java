@@ -1,13 +1,11 @@
 import java.util.Scanner;
 
-public class Exercise2
+public class Exercise4
 {
   public static void main (String[] args) 
   {
     Scanner scan = new Scanner( System.in );
-    double bolt;
-    double nut;
-    double washer;
+    int bolt;
 
     System.out.print("How many bolts? ");
     bolt =  scan.nextDouble();
