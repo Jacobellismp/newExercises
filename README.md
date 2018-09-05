@@ -9,12 +9,6 @@ sentances are paragraphs
 * list 4
 
 
-1. oof
-2. papi
-3. you
-4. oofed
-5. too
-
 #How to run my code
 
 `$ java Helloworld`
